@@ -1,0 +1,24 @@
+{
+  "updated": "2026-11-23",
+  "source": "Roblox DevForum 'Allowlist for local client configuration via Fast Flags' (2025-09-29). 로블록스가 목록을 바꾸면 이 파일을 고치면 런처가 실행할 때 받아 간다.",
+  "flags": [
+    "DFIntDebugFRMQualityLevelOverride",
+    "FIntDebugForceMSAASamples",
+    "DFFlagTextureQualityOverrideEnabled",
+    "DFIntTextureQualityOverride",
+    "FFlagDebugSkyGray",
+    "DFFlagDebugPauseVoxelizer",
+    "DFFlagDisableDPIScale",
+    "FFlagHandleAltEnterFullscreenManually",
+    "FFlagDebugGraphicsPreferD3D11",
+    "FFlagDebugGraphicsPreferVulkan",
+    "FFlagDebugGraphicsPreferOpenGL",
+    "FIntFRMMinGrassDistance",
+    "FIntFRMMaxGrassDistance",
+    "FIntGrassMovementReducedMotionFactor",
+    "DFIntCSGLevelOfDetailSwitchingDistance",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL12",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL23",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL34"
+  ]
+}
