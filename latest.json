@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.4.0/AcaciaLauncher.exe",
-  "sha256": "cf4401588c7e0464b04a7de99c04d7eec72e75f9b70e7c5001a01f572a6bf6af",
-  "notes": "1.4.0: 새 로고와 더 깔끔해진 화면. 사이드바를 묶음으로 정리하고 홈 화면을 새로 꾸몄습니다."
+  "version": "1.4.1",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.4.1/AcaciaLauncher.exe",
+  "sha256": "df47070adddbb1ff6175d142d932bdee2949dc39f70afa9dfa16d1e3061b2ec0",
+  "notes": "1.4.1: 한국어 글꼴이 없는 환경(Wine, Winlator 등)에서도 한글이 깨지지 않게 글꼴을 넣었습니다."
 }
