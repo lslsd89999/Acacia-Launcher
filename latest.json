@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.3.1/AcaciaLauncher.exe",
-  "sha256": "fb308ebdc3c9e6d63dd5eef352b23bc0796cdc393ab8bde0d70485fac18aa1f4",
-  "notes": "1.3.1: Acacia로 실행하면 FPS가 크게 떨어지고 게임 바·오버레이가 보이지 않던 문제를 고쳤습니다."
+  "version": "1.4.0",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.4.0/AcaciaLauncher.exe",
+  "sha256": "cf4401588c7e0464b04a7de99c04d7eec72e75f9b70e7c5001a01f572a6bf6af",
+  "notes": "1.4.0: 새 로고와 더 깔끔해진 화면. 사이드바를 묶음으로 정리하고 홈 화면을 새로 꾸몄습니다."
 }
