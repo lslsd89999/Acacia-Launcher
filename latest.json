@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.3.0/AcaciaLauncher.exe",
-  "sha256": "58412c0c15bb6b5a1f048d5ab30f2856dfdf7d3c891e3ad48fdc24f85d26aa24",
-  "notes": "1.3.0: 연결이 끊기면 같은 서버로 다시 접속, 서버 고르기, 미리 업데이트를 넣었습니다."
+  "version": "1.3.1",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.3.1/AcaciaLauncher.exe",
+  "sha256": "fb308ebdc3c9e6d63dd5eef352b23bc0796cdc393ab8bde0d70485fac18aa1f4",
+  "notes": "1.3.1: Acacia로 실행하면 FPS가 크게 떨어지고 게임 바·오버레이가 보이지 않던 문제를 고쳤습니다."
 }
