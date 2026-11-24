@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.2.0/AcaciaLauncher.exe",
-  "sha256": "1e92a60a3d661ce6b90766bc8d37aa7904f3b3c42249735e386b8b7bfe2698f8",
-  "notes": "1.2.0: 게임 글꼴 바꾸기, 모드 묶음 파일, 단축키 바꾸기, 로블록스 스튜디오 지원을 넣었습니다."
+  "version": "1.3.0",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.3.0/AcaciaLauncher.exe",
+  "sha256": "58412c0c15bb6b5a1f048d5ab30f2856dfdf7d3c891e3ad48fdc24f85d26aa24",
+  "notes": "1.3.0: 연결이 끊기면 같은 서버로 다시 접속, 서버 고르기, 미리 업데이트를 넣었습니다."
 }
