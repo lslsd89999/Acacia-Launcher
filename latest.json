@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.0/AcaciaLauncher.exe",
-  "sha256": "fcdd3af4b52995fccfe4d3d57d7b4d9212b2b7dcd2751f5b1ea645d8e666d7ba",
-  "notes": "1.6.0: 설정 검색(Ctrl+K), 게임 즐겨찾기와 바탕 화면 바로가기, 미니 모드, 어두운 테마의 검은 유리 카드가 들어갔습니다."
+  "version": "1.6.1",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.1/AcaciaLauncher.exe",
+  "sha256": "cc9abed52cee92f09b8716156fd0390abd9271ff0e14542e0f2f84b2cbed53df",
+  "notes": "1.6.1: 설정 창의 내용 카드가 페이지 내용에 맞춰 커지고 작아지며, 크기가 바뀔 때 액체처럼 부드럽게 출렁입니다."
 }
