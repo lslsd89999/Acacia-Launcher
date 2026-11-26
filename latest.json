@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.5.0/AcaciaLauncher.exe",
-  "sha256": "65605e1b31c6a409f6ea09510b74704b69c0482a7dd3e60fcf40bc789b39da4f",
-  "notes": "1.5.0: 새 화면(투명 창 위에 떠 있는 카드, 세로 메뉴, 흰색 기본 테마)과 게임 찾기, 그래픽 드라이버 탭, 끊김 진단이 들어갔습니다."
+  "version": "1.5.1",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.5.1/AcaciaLauncher.exe",
+  "sha256": "a40733a0cc43bd9764a0eee2adea293d45c9b069b4214a2a3a1a752ba7a82d0b",
+  "notes": "1.5.1: 실행 창이 설정 창처럼 투명 창 위에 떠 있는 흰 카드가 되었고, 모든 페이지의 카드 모양을 새 화면에 맞췄습니다."
 }
