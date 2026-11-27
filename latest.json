@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.2/AcaciaLauncher.exe",
-  "sha256": "59998cada491fa911d4d8649f84ebe7ab9af084957aa39bf6c168467100eb011",
-  "notes": "1.6.2: 테마 바꾸기를 없애고 밝은 기본 화면으로 통일했습니다. 서버 위치 알림은 작은 알약으로, 게임 바는 아이콘 버튼만 남겼습니다."
+  "version": "1.6.3",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.3/AcaciaLauncher.exe",
+  "sha256": "48e617a984e6776ce126447efa63e4e3207d1faa495b531433cce708cd3138ca",
+  "notes": "1.6.3: 성능을 막는 설정(고성능 그래픽카드, 전원 옵션, 백그라운드 녹화)을 찾아 한 번 허용하면 자동으로 맞춥니다. 디스코드 상태 표시는 없앴습니다."
 }
