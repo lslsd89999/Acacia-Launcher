@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.1/AcaciaLauncher.exe",
-  "sha256": "cc9abed52cee92f09b8716156fd0390abd9271ff0e14542e0f2f84b2cbed53df",
-  "notes": "1.6.1: 설정 창의 내용 카드가 페이지 내용에 맞춰 커지고 작아지며, 크기가 바뀔 때 액체처럼 부드럽게 출렁입니다."
+  "version": "1.6.2",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.2/AcaciaLauncher.exe",
+  "sha256": "59998cada491fa911d4d8649f84ebe7ab9af084957aa39bf6c168467100eb011",
+  "notes": "1.6.2: 테마 바꾸기를 없애고 밝은 기본 화면으로 통일했습니다. 서버 위치 알림은 작은 알약으로, 게임 바는 아이콘 버튼만 남겼습니다."
 }
