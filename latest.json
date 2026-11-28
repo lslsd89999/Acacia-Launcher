@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
-  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.3/AcaciaLauncher.exe",
-  "sha256": "48e617a984e6776ce126447efa63e4e3207d1faa495b531433cce708cd3138ca",
-  "notes": "1.6.3: 성능을 막는 설정(고성능 그래픽카드, 전원 옵션, 백그라운드 녹화)을 찾아 한 번 허용하면 자동으로 맞춥니다. 디스코드 상태 표시는 없앴습니다."
+  "version": "1.6.5",
+  "url": "https://github.com/lslsd89999/Acacia-Launcher/releases/download/v1.6.5/AcaciaLauncher.exe",
+  "sha256": "90f2e1139390bb614d821013255e601d61b414a1c1154a6cf07a26518157cf12",
+  "notes": "1.6.5: 런처 업데이트 중 꺼지던 문제를 고쳤고, 노트북에서도 로블록스가 켜져 있는 동안 전원 모드를 '최고 성능'으로 올립니다. 1.6.3에서는 자동 업데이트가 꺼지므로 이번 한 번만 직접 받아 주세요."
 }
